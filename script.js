@@ -150,3 +150,4 @@ function renderizaMonstros(monstros) {
         listaMonstros.appendChild(li);
     });
 }
+
